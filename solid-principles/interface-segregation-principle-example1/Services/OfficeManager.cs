@@ -1,6 +1,6 @@
-﻿using interface_segregation_principle.Example1.Interfaces;
+﻿using interface_segregation_principle_example1.Interfaces;
 
-namespace interface_segregation_principle.Example1.Services
+namespace interface_segregation_principle_example1.Services
 {
     public class OfficeManager
     {

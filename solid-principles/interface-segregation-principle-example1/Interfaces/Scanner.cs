@@ -1,4 +1,4 @@
-﻿namespace interface_segregation_principle.Example1.Interfaces
+﻿namespace interface_segregation_principle_example1.Interfaces
 {
     public interface Scanner
     {
